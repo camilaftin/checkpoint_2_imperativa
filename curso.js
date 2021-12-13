@@ -16,7 +16,7 @@ aprovação.*/
 array de booleanos com os resultados se os alunos aprovaram ou não.*/
 
 /* ---- IMPORTACAO DOS MODULOS -----*/
-const Aluno = require('../checkpoint_2_imperativa/arquivo1');
+const Aluno = require('../checkpoint_2_imperativa/aluno');
 const temp = require('../checkpoint_2_imperativa/index');
 const temp2 = require('../checkpoint_2_imperativa/index');
 const listaBooleana = require('../checkpoint_2_imperativa/index');

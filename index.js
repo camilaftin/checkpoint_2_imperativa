@@ -1,7 +1,7 @@
 /* ------ IMPORTS -------*/
-const Aluno = require('../checkpoint_2_imperativa/arquivo1');
-const curso = require('../checkpoint_2_imperativa/arquivo2');
-const aprovacao = require('../checkpoint_2_imperativa/arquivo2');
+const Aluno = require('../checkpoint_2_imperativa/aluno');
+const curso = require('../checkpoint_2_imperativa/curso');
+const aprovacao = require('../checkpoint_2_imperativa/curso');
 const estudantes = require('../checkpoint_2_imperativa/estudantes');
 
 
@@ -15,6 +15,7 @@ Aluno.dadosAlunos("Blanka", 3, [5,5,5,5]);
 //insercao dos novos alunos no arquivo 2
 curso.addAlunos("Guile", 0, [7,7,7,7]);
 curso.addAlunos("Balrog", 7, [7,7,7,7]);
+
 
 /* ----IMPRESSAO -----*/
 
